@@ -3,7 +3,7 @@
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 
 🛠 I'm currently working at **Hotailors - Business Travel Simplified**  
-🔧 I use daily: .ts, .js, .sh, .yaml, Dockerfile  
+🔧 I use daily: .ts, .js, .sh, .yaml, Dockerfile, Jenkinsfile, etc.  
 📚 I'm currently learning: How to use K8s in simple projects  
 💬 Ping me about: development, architecture, software developing process, devops related topics  
 ⚡️ Fun fact: Bike enthusiast  
