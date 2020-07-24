@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" height="32" />
+
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
+
+🛠 I'm currently working at **Hotailors - Business Travel Simplified**  
+🔧 I use daily: .ts, .js, .sh, .yaml, Dockerfile  
+📚 I'm currently learning: How to use K8s in simple projects  
+💬 Ping me about: development, architecture, software developing process, devops related topics  
+⚡️ Fun fact: Bike enthusiast  
+
 
 <!--
 **KamGor/KamGor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
