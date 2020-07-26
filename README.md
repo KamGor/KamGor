@@ -3,17 +3,17 @@
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 
 <div style="text-align: center">
-<img src="./assets/alpine.svg" height="48">
-<img src="./assets/ubuntu.svg" height="48">
-<img src="./assets/bash.svg" height="48">
-<img src="./assets/typescript.svg" height="48">
-<img src="./assets/javascript.svg" height="48">
-<img src="./assets/nodejs.svg" height="48">
-<img src="./assets/azure.svg" height="48">
-<img src="./assets/azurefunctions.svg" height="48">
-<img src="./assets/docker.svg" height="48">
-<img src="./assets/k8s.svg" height="48">
-<img src="./assets/postgresql.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/alpine.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/ubuntu.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/bash.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/typescript.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/javascript.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/nodejs.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/azure.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/azurefunctions.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/docker.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/k8s.svg" height="48">
+<img src="https://github.com/KamGor/KamGor/blob/master/assets/postgresql.svg" height="48">
 </div>
 
 🛠 I'm currently working at **Hotailors - Business Travel Simplified**  
