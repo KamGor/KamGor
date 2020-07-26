@@ -2,6 +2,10 @@
 
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 
+Hi, I'm Kamil - a DevOps Engineer at **Hotailors - Business Travel Simplified** working on a platform which helps companies to travel smarter, faster, easier and safer. Previously working as Software Developer at the same company. I'm a huge fan of cycling and Fallout series
+
+## ⚙️ Technologies I use
+
 <div style="text-align: center">
 <img src="https://github.com/KamGor/KamGor/blob/master/assets/alpine.svg" height="48">
 <img src="https://github.com/KamGor/KamGor/blob/master/assets/ubuntu.svg" height="48">
@@ -16,23 +20,8 @@
 <img src="https://github.com/KamGor/KamGor/blob/master/assets/postgresql.svg" height="48">
 </div>
 
-🛠 I'm currently working at **Hotailors - Business Travel Simplified**  
-📚 I'm currently learning: How to use K8s in simple projects  
-💬 Ping me about: development, architecture, software developing process, devops related topics  
-⚡️ Fun fact: Bike enthusiast  
+## 🌱 Challenges that I'm currently challenging myself
 
+## 📬 Get in touch
 
-<!--
-**KamGor/KamGor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Kamil Górecki](https://www.linkedin.com/in/kamil-g%C3%B3recki-379585142/)
