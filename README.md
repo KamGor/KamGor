@@ -22,6 +22,10 @@ Hi, I'm Kamil - a DevOps Engineer at **Hotailors - Business Travel Simplified** 
 
 ## 🌱 Challenges that I'm currently challenging myself
 
+- Lose weight
+- Learn more about architecture
+- Read more books than year before
+
 ## 📬 Get in touch
 
 - LinkedIn: [Kamil Górecki](https://www.linkedin.com/in/kamil-g%C3%B3recki-379585142/)
