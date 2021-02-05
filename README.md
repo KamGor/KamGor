@@ -7,7 +7,7 @@ Hi, I'm Kamil - a DevOps Engineer at **Hotailors - Business Travel Simplified** 
 ## ⚙️ Technologies I use
 
 <div style="text-align: center">
-<img src="https://raw.githubusercontent.com/KamGor/KamGor/master/assets/alpine.svg" height="48">
+<img src="https://raw.githubusercontent.com/KamGor/KamGor/master/assets/alpine.svg" height="48" style="-webkit-filter: invert(100%); /* safari 6.0 - 9.0 */filter: invert(100%);">
 <img src="https://raw.githubusercontent.com/KamGor/KamGor/master/assets/ubuntu.svg" height="48">
 <img src="https://raw.githubusercontent.com/KamGor/KamGor/master/assets/bash.svg" height="48">
 <img src="https://raw.githubusercontent.com/KamGor/KamGor/master/assets/typescript.svg" height="48">
