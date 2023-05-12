@@ -2,7 +2,7 @@
 
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 
-Hi, I'm Kamil - a DevOps Engineer at **Hotailors - Business Travel Simplified** working on a platform which helps companies to travel smarter, faster, easier and safer. Previously working as Software Developer at the same company. I'm a huge fan of cycling and Fallout series
+Hi, I'm Kamil. I'm a huge fan of cycling and Fallout series also I love dogs.
 
 ## ⚙️ Technologies I use
 
